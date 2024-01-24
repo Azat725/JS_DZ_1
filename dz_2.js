@@ -1,0 +1,1 @@
+let today = "Day of week"
